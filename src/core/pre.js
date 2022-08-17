@@ -3,4 +3,4 @@ const Hiwire = {};
 const Tests = {};
 API.tests = Tests;
 Module.hiwire = Hiwire;
-Module.canvas = document.getElementById('canvas')
+Module.canvas = document.querySelector('canvas#canvas')
